@@ -1,0 +1,36 @@
+Write Insomnia Collection for Routes
+     - Done but have placeholders for various ids
+
+Look at 18-25 and think of Users as Users and Thoughts as Videos
+[x] Create file structure   
+    - config
+        [x]- connection
+    controllers
+        - userController
+        - thoughtController
+        (reaction will be a subset of thought model, won't require it's own controller and will be handled in thought the way response is handled via video in lesson 18-25)
+        (friends will be a subset of user model)
+    models
+        - [x] User
+        - Thought
+        - index.js
+        - Reaction.js
+    
+    routes
+        index.js
+        -userRoutes
+        -thoughtRoutes
+        -index.js
+
+    utils
+     - seed.js
+     - data.js
+
+
+    [x] package.json
+
+[x] write base index.js
+
+Q's
+ - Do I need to initialize my db on MongoDB atlas to run this? Created socialNetwork db in Mongoose Compass
+    
