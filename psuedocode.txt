@@ -17,13 +17,14 @@ Look at 18-25 and think of Users as Users and Thoughts as Videos
         - [x] Reaction.js
     
     routes
-        index.js
-        -userRoutes
-        -thoughtRoutes
+        [x] index.js
+        -[x] userRoutes
+        -[x] thoughtRoutes
         -index.js
 
     utils
      - seed.js
+     
      - data.js
 
 

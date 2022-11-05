@@ -30,6 +30,12 @@ const userSchema = new Schema(
                 type: Schema.Types.ObjectId,
                 ref: 'Thoughts',
 
+                // Might need this syntax
+                //  thoughtsId: {
+                //     type: Schema.Types.ObjectId,
+                //     default: () => new Types.ObjectId(),
+                //   },
+
             }
         ],
 
@@ -37,7 +43,7 @@ const userSchema = new Schema(
             {
                 type: Schema.Types.ObjectId,
                 ref: 'User',
-                // not sure on above syntax because its a self reference
+                // not sure on above syntax because its a self reference, does above store the user id of the friend, or do I need a friend id
 
             }
         ],
