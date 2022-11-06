@@ -20,17 +20,19 @@ Look at 18-25 and think of Users as Users and Thoughts as Videos
         [x] index.js
         -[x] userRoutes
         -[x] thoughtRoutes
-        -index.js
+        -[x] index.js
 
     utils
      - seed.js
-     
+
      - data.js
 
+    [x] index.js (base file for whole app)
 
     [x] package.json
 
 [x] write base index.js
+[x] npm install 
 
 Q's
  - Do I need to initialize my db on MongoDB atlas to run this? Created socialNetwork db in Mongoose Compass
