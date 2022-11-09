@@ -10,25 +10,28 @@ This application can be seen running in Insomnia.
 
 The following .gifs shows the application's appearance and functionality.
 
-See all products in JSON object in Insomnia.
+Manage Users in Insomnia.
 
-<img src=".\assets\ViewAllProducts.GIF" width ="700"> 
+<img src=".\assets\Users.GIF" width ="700"> 
 
-See all categories as JSON objects in Insomnia.
+Manage Thoughts in Insomnia.
 
-<img src=".\assets\ViewAllCategories.GIF" width ="700">  
+<img src=".\assets\Thoughts.GIF" width ="700">  
 
-See all tags as JSON objects in Insomnia.
+See Reactions to Thoughts in Insomnia.
 
-<img src=".\assets\ViewAllTags.GIF" width ="700"> 
+<img src=".\assets\Reactions.GIF" width ="700"> 
 
+
+## Testing Notes
+This app requires MongoDB. To seed the database enter npm run seed in the terminal. To start the server enter npm start. You will then be able to test the routes and app functionality using Insomnia.
 
 ## Link to video of application running
 
-<a href="https://drive.google.com/file/d/1ks2YuOwVYq-lValUBEKq3sCzGt4MLOLn/view">
-Watch EcommBackEnd on Google Drive</a>
+<a href="https://drive.google.com/file/d/1B-SigYaGEpxBO85RVBK3pgVv1YLcR32_/view">
+Watch NoSQLSocialNetwork on Google Drive</a>
 
 ## Link to GitHub code repository for application
 
-<a href="https://github.com/LizRanZim/EcommBackEnd">
-https://github.com/LizRanZim/EcommBackEnd</a>
+<a href="https://github.com/LizRanZim/NoSQLSocialNetwork">
+https://github.com/LizRanZim/NoSQLSocialNetwork</a>
