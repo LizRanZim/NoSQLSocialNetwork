@@ -12,15 +12,15 @@ The following .gifs shows the application's appearance and functionality.
 
 Manage Users in Insomnia.
 
-<img src=".\assets\Users.GIF" width ="700"> 
+<img src=".\Assets\Users.GIF" width ="700"> 
 
 Manage Thoughts in Insomnia.
 
-<img src=".\assets\Thoughts.GIF" width ="700">  
+<img src=".\Assets\Thoughts.GIF" width ="700">  
 
 See Reactions to Thoughts in Insomnia.
 
-<img src=".\assets\Reactions.GIF" width ="700"> 
+<img src=".\Assets\Reactions.GIF" width ="700"> 
 
 
 ## Testing Notes
